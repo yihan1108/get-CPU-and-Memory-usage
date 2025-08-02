@@ -5,6 +5,7 @@
 硬碟、CPU、記憶體 Hard drive, CPU, memory
 
 https://blog.darkthread.net/blog/performancecounter-c-sample/
+
 https://blog.hungwin.com.tw/cshart-server-monitoring/
 
 獲取電腦名稱 Get the computer name 
