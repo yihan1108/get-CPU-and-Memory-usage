@@ -1,3 +1,7 @@
+A simple C# console application that collects system information 
+such as **Computer Name, IP Address, Disk Usage, CPU, and Memory usage**, 
+and saves the results into a SQL Server database.
+
 參考資料
 
 以下功能實作參考了網路上的教學與範例，感謝原作者分享：
